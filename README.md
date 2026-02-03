@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno Cruz de Oliveira, tenho 19 anos e sou natural de São Gabriel, Bahia. Atuo como desenvolvedor web full stack, com cerca de dois anos de experiência no desenvolvimento e manutenção de aplicações web. Trabalho tanto no front-end quanto no back-end, tendo como principal stack PHP e MySQL. Além disso, já desenvolvi projetos utilizando JavaScript, Node.js, React, Express e MySql, além de HTML e CSS para a criação de interfaces modernas e responsivas.
+Me chamo Bruno Cruz de Oliveira, tenho 20 anos e sou natural de São Gabriel, Bahia. Atuo como desenvolvedor web full stack, com cerca de dois anos de experiência no desenvolvimento e manutenção de aplicações web. Minha experiência concentra-se principalmente no desenvolvimento de aplicações web em PHP. Paralelamente, venho estudando e aplicando stacks modernas, desenvolvendo soluções com TypeScript, NestJS (arquitetura de microsserviços) e Next.js, além da implementação de pipelines de CI/CD.
  
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-cruz-oliveira" target="_blank">
@@ -141,24 +141,3 @@ Me chamo Bruno Cruz de Oliveira, tenho 19 anos e sou natural de São Gabriel, Ba
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 5px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bruno-cruz-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
- <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-cruz-oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
